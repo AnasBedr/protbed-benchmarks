@@ -29,10 +29,10 @@ The input data were obtained from the supplementary materials of the publication
 
 | Folder | Data file | Source |
 |--------|-----------|--------|
-| 01 | `11357_2025_1777_MOESM6_ESM.xlsx` | Gao X, Cheng X, Chen P, Lin L, Wang X, Xu R, Shen H, Yang Q. Plasma lipidomic fingerprinting enables high-accuracy biomarker discovery for Alzheimer's disease: a targeted LC-MRM/MS approach. Geroscience. 2026 Feb;48(1):1483-1498. doi: 10.1007/s11357-025-01777-5. Epub 2025 Jun 27. PMID: 40579668; PMCID: PMC12972415. |
-| 02 | `Table_S3_Urine_Normalized_Clean_Metabolites_aaiag001.csv` | [CITATION_02: authors, title, journal, year, DOI] |
-| 03 | `pdac_ev_proteomics.xlsx` | [CITATION_03: authors, title, journal, year, DOI] |
-| 04 | `mmc1.xlsx` | [CITATION_04: authors, title, journal, year, DOI] |
+| 01 | `11357_2025_1777_MOESM6_ESM.xlsx` | Gao, Xia, et al. "Plasma lipidomic fingerprinting enables high-accuracy biomarker discovery for Alzheimer’s disease: a targeted LC-MRM/MS approach." GeroScience 48.1 (2026): 1483-1498. |
+| 02 | `Table_S3_Urine_Normalized_Clean_Metabolites_aaiag001.csv` | Wang, Benlian, et al. "Identification of metabolomic signatures of diabetic kidney disease in urine and plasma using untargeted gas chromatography–mass spectrometry." Molecular Omics 22.1 (2026): aaiag001. |
+| 03 | `pdac_ev_proteomics.xlsx` | Bockorny, Bruno, et al. "A large-scale proteomics resource of circulating extracellular vesicles for biomarker discovery in pancreatic cancer." Elife 12 (2024): RP87369. |
+| 04 | `mmc1.xlsx` | Jang, Yura, et al. "Mass spectrometry–based proteomics analysis of human substantia nigra from Parkinson's disease patients identifies multiple pathways potentially involved in the disease." Molecular & Cellular Proteomics 22.1 (2023).|
 
 ## Installation
 
