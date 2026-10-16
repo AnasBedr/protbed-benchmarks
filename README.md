@@ -1,5 +1,11 @@
 # ProtBed Benchmark Suite (v1.0.0)
 
+[![Release](https://img.shields.io/badge/release-v1.0.0-007ec6.svg)](https://github.com/AnasBedr/protbed-benchmarks/releases/tag/v1.0.0)
+[![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-007ec6.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-007ec6.svg)](LICENSE)
+[![ProtBed Web Platform](https://img.shields.io/badge/ProtBed-Web%20Platform-06b6d4?logo=circle&logoColor=white)](https://protbed.com)
+[![bio.tools](https://img.shields.io/badge/bio.tools-protbed-007ec6)](https://bio.tools/protbed)
+
 Reproducibility notebooks comparing results produced by the ProtBed web application (https://protbed.com) with independent Python implementations on four public mass-spectrometry datasets.
 
 ProtBed analyses quantified abundance tables (post-extraction feature matrices); it does not process raw MS/MS spectra. These notebooks re-implement selected analyses (preprocessing, differential testing, dimensionality reduction, mean-variance quality control, and supervised classification with stratified five-fold cross-validation) so that outputs can be compared numerically and visually.
