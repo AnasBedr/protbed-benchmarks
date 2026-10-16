@@ -1,0 +1,7 @@
+Model,Accuracy,Macro F1
+Random Forest,0.65,0.6080745341614907
+Gaussian Naive Bayes,0.625,0.5366507177033493
+Logistic Regression,0.6,0.5888888888888889
+Gradient Boosting,0.6,0.5973063973063973
+Support Vector Machine (linear),0.6,0.5888888888888889
+Decision Tree,0.45,0.44577352472089316

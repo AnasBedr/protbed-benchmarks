@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this benchmark suite, please cite it as below."
+title: "ProtBed Benchmark Suite"
+version: 1.0.0
+date-released: 2026-10-16
+authors:
+  - family-names: Bedraoui
+    given-names: Anas
+    affiliation: "Independent Researcher, Casablanca, Morocco"
+repository-code: "https://github.com/AnasBedr/protbed-benchmarks"
+url: "https://protbed.com"
+license: MIT
