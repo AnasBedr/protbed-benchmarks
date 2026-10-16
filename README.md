@@ -29,7 +29,7 @@ The input data were obtained from the supplementary materials of the publication
 
 | Folder | Data file | Source |
 |--------|-----------|--------|
-| 01 | `11357_2025_1777_MOESM6_ESM.xlsx` | [CITATION_01: authors, title, GeroScience (2025), DOI] |
+| 01 | `11357_2025_1777_MOESM6_ESM.xlsx` | Gao X, Cheng X, Chen P, Lin L, Wang X, Xu R, Shen H, Yang Q. Plasma lipidomic fingerprinting enables high-accuracy biomarker discovery for Alzheimer's disease: a targeted LC-MRM/MS approach. Geroscience. 2026 Feb;48(1):1483-1498. doi: 10.1007/s11357-025-01777-5. Epub 2025 Jun 27. PMID: 40579668; PMCID: PMC12972415. |
 | 02 | `Table_S3_Urine_Normalized_Clean_Metabolites_aaiag001.csv` | [CITATION_02: authors, title, journal, year, DOI] |
 | 03 | `pdac_ev_proteomics.xlsx` | [CITATION_03: authors, title, journal, year, DOI] |
 | 04 | `mmc1.xlsx` | [CITATION_04: authors, title, journal, year, DOI] |
