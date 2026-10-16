@@ -6,7 +6,7 @@ date-released: 2026-10-16
 authors:
   - family-names: Bedraoui
     given-names: Anas
-    affiliation: "Independent Researcher, Casablanca, Morocco"
+    affiliation: "ProtBed, Casablanca, 20100, Morocco"
 repository-code: "https://github.com/AnasBedr/protbed-benchmarks"
 url: "https://protbed.com"
 license: MIT
