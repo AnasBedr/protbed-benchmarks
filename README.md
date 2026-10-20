@@ -59,7 +59,22 @@ Open a notebook from inside its cohort folder; input paths are relative to that 
 
 ## Citation
 
-If you use this suite, please cite the ProtBed manuscript and this repository (see `CITATION.cff`).
+If you use this benchmark suite, the analytical workflows, or the ProtBed platform in your research, please cite our preprint:
+
+> Bedraoui, A. (2026). **ProtBed: a streamlined web platform for exploratory statistics and predictive modeling in quantitative mass spectrometry**. *ChemRxiv*. https://doi.org/10.26434/chemrxiv.15010689/v1
+
+### BibTeX
+
+```bibtex
+@article{bedraoui2026protbed,
+  author    = {Bedraoui, Anas},
+  title     = {ProtBed: a streamlined web platform for exploratory statistics and predictive modeling in quantitative mass spectrometry},
+  journal   = {ChemRxiv},
+  year      = {2026},
+  month     = {10},
+  doi       = {10.26434/chemrxiv.15010689/v1},
+  url       = {https://doi.org/10.26434/chemrxiv.15010689/v1}
+}
 
 ## License
 
