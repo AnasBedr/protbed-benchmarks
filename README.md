@@ -75,6 +75,7 @@ If you use this benchmark suite, the analytical workflows, or the ProtBed platfo
   doi       = {10.26434/chemrxiv.15010689/v1},
   url       = {https://doi.org/10.26434/chemrxiv.15010689/v1}
 }
+```
 
 ## License
 
